@@ -47,7 +47,7 @@
     <img height="40" width="40" src="https://raw.githubusercontent.com/xxviiihours/itsme/817ceb6fcc58cf9337ad63b537aa7a39b3ab80b2/image/icons/gmail-icon.svg" />
   </a>
   &ensp;
-  <a href="https://discord.com/channels/@me" target="_blank">
+  <a href="https://discordapp.com/users/619833478791561257" target="_blank">
     <img height="40" width="40"src="https://raw.githubusercontent.com/xxviiihours/itsme/817ceb6fcc58cf9337ad63b537aa7a39b3ab80b2/image/icons/discord-6.svg" />
   </a>
 </p>
