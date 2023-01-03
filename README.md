@@ -60,8 +60,8 @@ https://roadmap.sh/ - guided me towards the path i needed to become a full stack
 
 ##
 
-![K-vin's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxviiihours&show_icons=true&theme=dark)
-&ensp;&ensp;&ensp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxviiihours&show_icons=true&locale=en&layout=compact)](https://github.com/xxviiihours/itsme)
+&ensp;&ensp;&ensp;
+![K-vin's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxviiihours&show_icons=true&theme=dark)
 
 
