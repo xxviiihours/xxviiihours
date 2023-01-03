@@ -39,7 +39,7 @@
 ## 📫Looking for opportunity 💼
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kevin-macalalag/" target="blank">
+  <a href="https://www.linkedin.com/in/kevin-macalalag/" target="_blank">
     <img height="40" width="40"src="https://raw.githubusercontent.com/xxviiihours/itsme/817ceb6fcc58cf9337ad63b537aa7a39b3ab80b2/image/icons/linkedin-icon-2.svg" />
   </a>
   &ensp;
@@ -47,7 +47,7 @@
     <img height="40" width="40" src="https://raw.githubusercontent.com/xxviiihours/itsme/817ceb6fcc58cf9337ad63b537aa7a39b3ab80b2/image/icons/gmail-icon.svg" />
   </a>
   &ensp;
-  <a href="https://discord.com/channels/@me" target="blank">
+  <a href="https://discord.com/channels/@me" target="_blank">
     <img height="40" width="40"src="https://raw.githubusercontent.com/xxviiihours/itsme/817ceb6fcc58cf9337ad63b537aa7a39b3ab80b2/image/icons/discord-6.svg" />
   </a>
 </p>
