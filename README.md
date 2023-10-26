@@ -8,11 +8,6 @@
 ## 📖 About me
 
 * 💻 I'm currently working as **Application Developer @ AIS Inc.**
-* 🛍️ I'm currently learning **Ecommerce - Shopify**
-* 📱 I make apps for Desktop, Android and iOS
-* 🎓 I'm a BSIT student (graduated August 2020)
-* 🌐 I also make **Web-based Applications** such as **Portal Web App**
-
 
 ## ⚒️Tools & Languages
 
