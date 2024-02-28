@@ -5,7 +5,7 @@
 
 <img height="400" width="300" align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-## 📖 About me
+<h3 alight="left">📖 About me </h3>
 
 * 💻 I'm currently working as **Application Developer @ AIS Inc.**
 
@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,vscode,git,mysql,mongodb&perline=4" />
 </p>
 
-## 📫Looking for opportunity 💼
+<h3 align="left">📫Looking for opportunity 💼</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kevin-macalalag/" target="_blank">
@@ -34,7 +34,7 @@
 </p>
 
 
-## 📝Helpful Links
+<h3 align="left">📝Helpful Links</h3>
 
 https://roadmap.sh/ - 🛣️🛣️
 &nbsp;&nbsp;
