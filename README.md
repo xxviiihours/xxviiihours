@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,vscode,git,mysql,mongodb&perline=4" />
 </p>
 
-<h3 align="left">📫Connect With Me 💼</h3>
+<h3 align="left">📫Connect with me 💼</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kevin-macalalag/" target="_blank">
