@@ -9,7 +9,7 @@
 
 * 💻 I'm currently working as **Application Developer @ AIS Inc.**
 
-<h3 align="left">⚒️Tools & Languages</h3>
+<h3 align="left">⚒️Tech Stack</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,redux,angular&perline=4" />
