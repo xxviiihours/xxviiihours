@@ -5,10 +5,6 @@
 
 <img height="400" width="300" align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-<h3 alight="left">📖 About me </h3>
-
-* 💻 I'm currently working as **Application Developer @ AIS Inc.**
-
 <h3 align="left">⚒️Tech Stack</h3>
 
 <p align="left">
