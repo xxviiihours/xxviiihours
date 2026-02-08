@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/xxviiihours/itsme/main/image/github-cover.jpg">
+<!-- <img src="https://raw.githubusercontent.com/xxviiihours/itsme/main/image/github-cover.jpg"> -->
 
 
 
