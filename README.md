@@ -1,9 +1,9 @@
 
 <!-- <img src="https://raw.githubusercontent.com/xxviiihours/itsme/main/image/github-cover.jpg"> -->
 
-Hi! I'm Kevin a passionate app developer 🍵 
-I’m obsessed with writing clean, readable code—smelly code? Absolutely not 💀.
-I build reliable software with a focus on clarity and scalability.
+Hi! I'm Kevin a passionate app developer 🍵 <br />
+I’m obsessed with writing clean, readable code—smelly code? Absolutely not 💀. <br />
+I build reliable software with a focus on clarity and scalability. <br /> <br />
 
 <img height="400" width="300" align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
