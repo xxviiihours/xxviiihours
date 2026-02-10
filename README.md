@@ -5,15 +5,57 @@ Hi! I'm Kevin a passionate app developer 🍵 <br />
 I’m obsessed with writing clean, readable code—smelly code? Absolutely not 💀. <br />
 I build reliable software with a focus on clarity and scalability. <br /> <br />
 
+❌💀
+```c#
+public sealed class Quantity 
+{ 
+  public int Value { get; set; } 
+}
+```
+✅😁
+```c#
+public sealed record Quantity
+{
+    public int Value { get; }
+
+    private Quantity(int value) => Value = value;
+
+    public static Result<Quantity> Create(int value)
+    {
+        if (value <= 0)
+            return Result<Quantity>.Failure(
+                new Error("Quantity.Invalid", "Quantity must be greater than zero"));
+
+        return Result<Quantity>.Success(new Quantity(value));
+    }
+}
+```
+
 <img height="400" width="300" align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 <h3 align="left">⚒️Tech Stack</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,redux,angular&perline=4" />
-  &ensp;&ensp;&ensp;
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,vscode,git,mysql,mongodb&perline=4" />
-</p>
+<table>
+  <tr>
+    <td valign="top" align="left">
+      <strong>Web Design & Development</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=html,css,js,typescript&perline=4" />
+    </td>
+    <td valign="top" align="left">
+      <strong>Database Management System</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&perline=4" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">
+      <strong>Frontend Frameworks</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=react,angular,vue,svelte&perline=4" />
+    </td>
+    <td valign="top" align="left">
+      <strong>Backend Development</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs&perline=4" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">📫Connect with me 💼</h3>
 
