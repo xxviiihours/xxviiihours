@@ -2,10 +2,10 @@
 <img height="500" width="100%" src="https://github.com/xxviiihours/xxviiihours/blob/main/image/cover/cover-galaxy.png?raw=true">
 
 <img height="100%" width="350" align="right" src="https://raw.githubusercontent.com/xxviiihours/xxviiihours/refs/heads/main/image/profile/profile-galaxy.gif?raw=true" />
+
 Hi! I'm Kevin a passionate app developer 🍵 <br />
 I’m obsessed with writing clean, readable code—smelly code? Absolutely not 💀. <br />
-I build reliable software with a focus on clarity and scalability. <br /> <br />
-
+I build reliable software with a focus on clarity and scalability. <br /> 
 
 <h3 align="left">⚒️Tech Stack</h3>
 <table>
