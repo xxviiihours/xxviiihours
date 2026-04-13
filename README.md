@@ -4,9 +4,8 @@
 Hi! I'm Kevin a passionate app developer 🍵 <br />
 I’m obsessed with writing clean, readable code—smelly code? Absolutely not 💀. <br />
 I build reliable software with a focus on clarity and scalability. <br /> <br />
+
 <img height="100%" width="350" align="right" src="https://raw.githubusercontent.com/xxviiihours/xxviiihours/refs/heads/main/image/profile/profile-galaxy.gif?raw=true" />
-<h3 align="left">👍Things I Like</h3>
-Anime, Galaxy, Games, Music, Artworks, Cats
 
 <h3 align="left">⚒️Tech Stack</h3>
 <table>
