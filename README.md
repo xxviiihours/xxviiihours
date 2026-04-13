@@ -1,11 +1,11 @@
 
-<img height="500" width="100%" src="">
+<img height="500" width="100%" src="https://github.com/xxviiihours/xxviiihours/blob/main/image/cover/cover-galaxy.png?raw=true">
 
 Hi! I'm Kevin a passionate app developer 🍵 <br />
 I’m obsessed with writing clean, readable code—smelly code? Absolutely not 💀. <br />
 I build reliable software with a focus on clarity and scalability. <br /> <br />
 
-<img height="100%" width="400" align="right" src="" />
+<img height="100%" width="400" align="right" src="https://raw.githubusercontent.com/xxviiihours/xxviiihours/refs/heads/main/image/profile/profile-galaxy.gif?raw=true" />
 
 <h3 align="left">👍Things I Like</h3>
 Anime, Galaxy, Games, Music, Artworks, Cats
