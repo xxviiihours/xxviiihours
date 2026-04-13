@@ -1,37 +1,14 @@
 
-<!-- <img src="https://raw.githubusercontent.com/xxviiihours/itsme/main/image/github-cover.jpg"> -->
+<img height="500" width="100%" src="">
 
 Hi! I'm Kevin a passionate app developer 🍵 <br />
 I’m obsessed with writing clean, readable code—smelly code? Absolutely not 💀. <br />
 I build reliable software with a focus on clarity and scalability. <br /> <br />
 
-❌💀
-```c#
-public sealed class Quantity 
-{ 
-  public int Value { get; set; } 
-}
-```
-✅😁
-```c#
-public sealed record Quantity
-{
-    public int Value { get; }
+<img height="100%" width="400" align="right" src="" />
 
-    private Quantity(int value) => Value = value;
-
-    public static Result<Quantity> Create(int value)
-    {
-        if (value <= 0)
-            return Result<Quantity>.Failure(
-                new Error("Quantity.Invalid", "Quantity must be greater than zero"));
-
-        return Result<Quantity>.Success(new Quantity(value));
-    }
-}
-```
-
-<img height="400" width="300" align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<h3 align="left">👍Things I Like</h3>
+Anime, Galaxy, Games, Music, Artworks, Cats
 
 <h3 align="left">⚒️Tech Stack</h3>
 <table>
